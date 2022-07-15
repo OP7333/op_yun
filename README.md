@@ -24,6 +24,7 @@ A template for building OpenWrt with GitHub Actions
 
 ## Credits
 
+- [Web page compilation](https://supes.top/)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
