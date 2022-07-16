@@ -23,7 +23,7 @@ A template for building OpenWrt with GitHub Actions
 - Add some meta info of your built firmware (such as firmware architecture and installed packages) to your repository introduction, this will save others' time.
 
 ## Credits
-
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Web page compilation](https://supes.top/)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
